@@ -160,17 +160,17 @@ http://45.190.187.241:58001/play/a02i/index.m3u8
 #EXTINF:-1,H2
 http://45.190.187.241:58001/play/a02b/index.m3u8
 #EXTINF:-1,HBO Family HD
-http://45.190.187.241:58001/play/a0cc/index.
+#http://45.190.187.241:58001/play/a0cc/index.
 #EXTINF:-1,HBO HD
-http://45.190.187.241:58001/play/a0c9/index.
+#http://45.190.187.241:58001/play/a0c9/index.
 #EXTINF:-1,HBO Mundi
-http://45.190.187.241:58001/play/a0a4/index.
+#http://45.190.187.241:58001/play/a0a4/index.
 #EXTINF:-1,HBO Plus HD
-http://45.190.187.241:58001/play/a0cb/index.
+#http://45.190.187.241:58001/play/a0cb/index.
 #EXTINF:-1,HBO XTREME
-http://45.190.187.241:58001/play/a0cd/index.
+#http://45.190.187.241:58001/play/a0cd/index.
 #EXTINF:-1,HBO2 HD
-http://45.190.187.241:58001/play/a0ca/index.
+#http://45.190.187.241:58001/play/a0ca/index.
 #EXTINF:-1,HCH- HON
 http://45.190.187.241:58001/play/a01f/index.m3u8
 #EXTINF:-1,HOLA! TV HD
@@ -226,11 +226,11 @@ http://94.156.33.91/OrangeSport3-Romania/index.m3u8
 #EXTINF:-1,Oromar TV
 http://45.190.187.241:58001/play/a05q/index.m3u8
 #EXTINF:-1,Premier Sport 1
-http://185.188.188.235/live/premiersport/playlist.
+#http://185.188.188.235/live/premiersport/playlist.
 #EXTINF:-1,Premier Sport 2
-http://185.188.188.235/live/premiersport2/playlist.
+#http://185.188.188.235/live/premiersport2/playlist.
 #EXTINF:-1,Paramount HD
-http://45.190.187.241:58001/play/a00b/index.
+#http://45.190.187.241:58001/play/a00b/index.
 #EXTINF:-1,Pasiones HD
 http://45.190.187.241:58001/play/a00p/index.m3u8
 #EXTINF:-1,Rakuten
@@ -310,9 +310,9 @@ http://45.190.187.241:58001/play/a0c7/index.m3u8
 #EXTINF:-1,UNIVERSAL CRIME HD
 http://45.190.187.241:58001/play/a0c6/index.m3u8
 #EXTINF:-1,UNIVERSAL PREMIERE HD
-http://45.190.187.241:58001/play/a0c3/index.
+#http://45.190.187.241:58001/play/a0c3/index.
 #EXTINF:-1,UNIVERSAL PREMIERE O HD
-http://45.190.187.241:58001/play/a0c4/index.
+#http://45.190.187.241:58001/play/a0c4/index.
 #EXTINF:-1,UNIVERSAL REALITY HD
 http://45.190.187.241:58001/play/a0c5/index.m3u8
 #EXTINF:-1,Universal
