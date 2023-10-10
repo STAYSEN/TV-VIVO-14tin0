@@ -225,6 +225,8 @@ http://94.156.33.91/OrangeSport2-Romania/index.m3u8
 http://94.156.33.91/OrangeSport3-Romania/index.m3u8
 #EXTINF:-1,Oromar TV
 http://45.190.187.241:58001/play/a05q/index.m3u8
+#EXTINF:-1,Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Premier Sport 1
 http://185.188.188.235/live/premiersport/playlist.m3u8
 #EXTINF:-1,Premier Sport 2
