@@ -28,7 +28,7 @@ http://45.190.187.241:58001/play/a09n/index.m3u8
 #EXTINF:-1,Azteca UNO
 http://45.190.187.241:58001/play/a083/index.m3u8
 #EXTINF:-1, Bayres TV | AR
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1,Baby First
 http://45.190.187.241:58001/play/a05x/index.m3u8
 #EXTINF:-1,Baby TV
