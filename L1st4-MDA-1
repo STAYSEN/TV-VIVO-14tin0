@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1, Bayres TV | AR
+
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,El Trece | AR
+
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,Canal 7 TV | AR
+
+https://stream.arcast.com.ar/envivo/castv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1,A&E
 
 http://181.78.22.70:8000/play/a03o/index.m3u8
