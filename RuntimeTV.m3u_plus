@@ -1,0 +1,12 @@
+#EXTM3U
+
+#EXTINF:-1 ,Runtime TV
+https://i.mjh.nz/SamsungTVPlus/ESBC400001QQ.m3u8
+#EXTINF:-1 ,Runtime TV   Acción
+https://i.mjh.nz/SamsungTVPlus/ESBD80000288.m3u8
+#EXTINF:-1 ,Runtime TV   Comedia
+https://i.mjh.nz/SamsungTVPlus/ESBD8000033W.m3u8
+#EXTINF:-1 ,Runtime TV  Familia
+https://i.mjh.nz/SamsungTVPlus/ES700004C8.m3u8
+#EXTINF:-1 ,Runtime TV  Romance 
+https://i.mjh.nz/SamsungTVPlus/ESBD800004KU.m3u8
