@@ -10,3 +10,13 @@ https://i.mjh.nz/SamsungTVPlus/ESBD8000033W.m3u8
 https://i.mjh.nz/SamsungTVPlus/ES700004C8.m3u8
 #EXTINF:-1 ,Runtime TV  Romance 
 https://i.mjh.nz/SamsungTVPlus/ESBD800004KU.m3u8
+#EXTINF:-1 ,Runtime TV  Trash
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647
+#EXTINF:-1 ,Runtime TV  Series
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3434
+#EXTINF:-1 ,Runtime TV  Clasicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
+#EXTINF:-1 ,Runtime TV  Thriller y Terror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3054
+#EXTINF:-1 ,Runtime TV  Películas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
