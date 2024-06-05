@@ -1,0 +1,9 @@
+#EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="DEPORTES" tvg-id="simpleTVFakeEpgId",TNT SPORTS 2 VIP HD
+http://23467613740819037.ofk0601.xyz:80/live/ja29929/SXqsekeShG/819037.ts
+#EXTINF:-1 group-title="DEPORTES" tvg-id="simpleTVFakeEpgId",CDF BASICO VIP SD
+http://23467613740839356.ofk0601.xyz:80/live/ja29929/SXqsekeShG/839356.ts
+#EXTINF:-1 group-title="DEPORTES" tvg-id="simpleTVFakeEpgId",WIN SPORT PLUS VIP SD
+http://23467613740839363.ofk0601.xyz:80/live/ja29929/SXqsekeShG/839363.ts
+#EXTINF:-1 group-title="DEPORTES" tvg-id="simpleTVFakeEpgId",TNT PREMIUN
+http://23467613740855118.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855118.ts
