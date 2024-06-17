@@ -1,5 +1,5 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="DEPORTES" tvg-id="simpleTVFakeEpgId",ZCL• ESPN (HD)
+#EXTINF:-1 tvg-logo="https://imgur.com/a/1Y1TpaU",ZCL• ESPN (HD)
 http://ultra-premium-pro.xyz:8080/92038884/20230630/54413
 #EXTINF:-1 group-title="DEPORTES" tvg-id="simpleTVFakeEpgId",ZCL• ESPN 2 (HD)
 http://ultra-premium-pro.xyz:8080/92038884/20230630/54414
