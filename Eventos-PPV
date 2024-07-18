@@ -1,24 +1,34 @@
 #EXTM3U
 
-#EXTINF:-1 DIRECTV SPORTS op1
+#EXTINF:-1 group-title="→ ST EVENTOS ←" tvg-id="simpleTVFakeEpgId",DIRECTV SPORTS
 http://newultra.xyz:8080/barriospame594219/594219barriospame/58291
-#EXTINF:-1 DIRECTV SPORTS op2
+#EXTINF:-1 group-title="→ ST EVENTOS ←" tvg-id="simpleTVFakeEpgId",DIRECTV SPORTS op1
 http://aguacongas.xyz:80/DanielAlicante/yNCEV8cQjhJG/88867
-#EXTINF:-1 DIRECTV SPORTS op3
+#EXTINF:-1 group-title="→ ST EVENTOS ←" tvg-id="simpleTVFakeEpgId",DIRECTV SPORTS op2
 http://newultra.xyz:8080/56958293702facezero/180123zero/465
-#EXTINF:-1 Evento TELEFE op4
-http://aguacongas.xyz:80/DanielAlicante/yNCEV8cQjhJG/79104
-#EXTINF:-1 DIRECTV SPORTS FIGHT
+#EXTINF:-1 group-title="→ ST EVENTOS ←" tvg-id="simpleTVFakeEpgId",DIRECTV SPORTS FIGHT
 http://newultra.xyz:8080/barriospame594219/594219barriospame/20350
-#EXTINF:-1 COPA AMERICA
-http://tv.host-pro2.com:8789/446686/chtuuA7/312616
-#EXTINF:-1 D SPORTS CHILE
-http://tecno.win:8080/kathy/kathy/69264
-#EXTINF:-1 PPV·EVENTOS
-http://newultra.xyz:8080/barriospame594219/594219barriospame/20203
-#EXTINF:-1 DIRECTV SPORTS 2
-http://newultra.xyz:8080/56958293702facezero/180123zero/464      
-#EXTINF:-1 FUTBÓL CHILENO 
+#EXTINF:-1 group-title="→ ST EVENTOS ←" tvg-id="simpleTVFakeEpgId",TNT SPORT PREMIUM
 http://newultra.xyz:8080/56958293702facezero/180123zero/86
-#EXTINF:-1 Funciona solo EVENTOS 
-http://newultra.xyz:8080/barriospame594219/594219barriospame/20220
+#EXTINF:-1 group-title="→ ST EVENTOS ←" tvg-id="simpleTVFakeEpgId",DAZN LALIGA
+http://59511330782320781.ofd0718.xyz:80/live/CWD7WEYC66/cd6fHRcVUSn/320781.ts
+#EXTINF:-1 group-title="→ ST EVENTOS ←" tvg-id="simpleTVFakeEpgId",M+ LALIGA
+http://59511330782165385.ofd0718.xyz:80/live/CWD7WEYC66/cd6fHRcVUSn/165385.ts
+#EXTINF:-1 group-title="→ ST EVENTOS ←" tvg-id="simpleTVFakeEpgId",M+ LALIGA 2
+http://59511330782165398.ofd0718.xyz:80/live/CWD7WEYC66/cd6fHRcVUSn/165398.ts
+#EXTINF:-1 group-title="→ ST EVENTOS ←" tvg-id="simpleTVFakeEpgId",M+ DAZN 1
+http://59511330782228385.ofd0718.xyz:80/live/CWD7WEYC66/cd6fHRcVUSn/228385.ts
+#EXTINF:-1 group-title="→ ST EVENTOS ←" tvg-id="simpleTVFakeEpgId",M+ DAZN 2
+http://59511330782228388.ofd0718.xyz:80/live/CWD7WEYC66/cd6fHRcVUSn/228388.ts
+#EXTINF:-1 group-title="→ ST EVENTOS ←" tvg-id="simpleTVFakeEpgId",M+ DAZN 3
+http://59511330782228393.ofd0718.xyz:80/live/CWD7WEYC66/cd6fHRcVUSn/228393.ts
+#EXTINF:-1 group-title="→ ST EVENTOS ←" tvg-id="simpleTVFakeEpgId",EUROSPORT 1
+http://59511330782290348.ofd0718.xyz:80/live/CWD7WEYC66/cd6fHRcVUSn/290348.ts
+#EXTINF:-1 group-title="→ ST EVENTOS ←" tvg-id="simpleTVFakeEpgId",EUROSPORT 2
+http://59511330782290351.ofd0718.xyz:80/live/CWD7WEYC66/cd6fHRcVUSn/290351.ts
+#EXTINF:-1 group-title="→ ST EVENTOS ←" tvg-id="simpleTVFakeEpgId",DANZ 2
+http://59511330782320779.ofd0718.xyz:80/live/CWD7WEYC66/cd6fHRcVUSn/320779.ts
+#EXTINF:-1 group-title="→ ST EVENTOS ←" tvg-id="simpleTVFakeEpgId",M LALIGA SMARTBANK
+http://59511330782320785.ofd0718.xyz:80/live/CWD7WEYC66/cd6fHRcVUSn/320785.ts
+#EXTINF:-1 group-title="→ ST EVENTOS ←" tvg-id="simpleTVFakeEpgId",ZCL• TV CHILE (HD)
+http://ultra-premium-pro.xyz:8080/92038884/20230630/56872
