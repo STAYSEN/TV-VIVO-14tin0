@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 group-title="→ ST EVENTOS ←" tvg-id="simpleTVFakeEpgId",DIRECTV SPORTS
 http://newultra.xyz:8080/barriospame594219/594219barriospame/58291
 #EXTINF:-1 group-title="→ ST EVENTOS ←" tvg-id="simpleTVFakeEpgId",DIRECTV SPORTS op1
@@ -30,5 +29,15 @@ http://59511330782290351.ofd0718.xyz:80/live/CWD7WEYC66/cd6fHRcVUSn/290351.ts
 http://59511330782320779.ofd0718.xyz:80/live/CWD7WEYC66/cd6fHRcVUSn/320779.ts
 #EXTINF:-1 group-title="→ ST EVENTOS ←" tvg-id="simpleTVFakeEpgId",M LALIGA SMARTBANK
 http://59511330782320785.ofd0718.xyz:80/live/CWD7WEYC66/cd6fHRcVUSn/320785.ts
-#EXTINF:-1 group-title="→ ST EVENTOS ←" tvg-id="simpleTVFakeEpgId",ZCL• TV CHILE (HD)
-http://ultra-premium-pro.xyz:8080/92038884/20230630/56872
+#EXTINF:-1 group-title="→ ST EVENTOS ←" tvg-id="simpleTVFakeEpgId",Combate
+http://newlife3.wanicelife.com:8880/AZ12M3D047/Bd8bCebrTY/2517
+#EXTINF:-1 group-title="→ ST EVENTOS ←" tvg-id="simpleTVFakeEpgId",Sport TV
+http://newlife3.wanicelife.com:8880/AZ12M3D047/Bd8bCebrTY/2443
+#EXTINF:-1 group-title="→ ST EVENTOS ←" tvg-id="simpleTVFakeEpgId",Sport TV 2
+http://newlife3.wanicelife.com:8880/AZ12M3D047/Bd8bCebrTY/2445
+#EXTINF:-1 group-title="→ ST EVENTOS ←" tvg-id="simpleTVFakeEpgId",ESPN BR
+http://newlife3.wanicelife.com:8880/AZ12M3D047/Bd8bCebrTY/2499
+#EXTINF:-1 group-title="→ ST EVENTOS ←" tvg-id="simpleTVFakeEpgId",ESPN 4
+http://newlife3.wanicelife.com:8880/AZ12M3D047/Bd8bCebrTY/2489
+#EXTINF:-1 group-title="→ ST EVENTOS ←" tvg-id="simpleTVFakeEpgId",Premiere Clubes
+http://newlife3.wanicelife.com:8880/AZ12M3D047/Bd8bCebrTY/2451
