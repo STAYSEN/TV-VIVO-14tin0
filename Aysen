@@ -3,3 +3,5 @@
 https://v1.tustreaming.cl/aysentv/index.m3u8
 #EXTINF:-1 Canal 11 Aysen
 https://v1.tustreaming.cl:19360/canal11aysen/canal11aysen.m3u8
+#EXTINF:-1 Panoramica Aysen
+https://v2.tustreaming.cl/alingeproducciones/index.m3u8
